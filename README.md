@@ -1,36 +1,39 @@
-## Hi there 👋
-# I'm LULUA 👋
+# HI, I'M LULUA 👋
 
-BCA student in Artificial Intelligence at Symbiosis International University, Dubai. [cite:4]
+BCA STUDENT IN **ARTIFICIAL INTELLIGENCE** AT SYMBIOSIS INTERNATIONAL UNIVERSITY, DUBAI, WITH A STRONG INTEREST IN **DATA STRUCTURES & ALGORITHMS, WEB DEVELOPMENT, AND DATABASE SYSTEMS**.
 
-I’m interested in data structures & algorithms, web development, database systems, and building practical projects with Python and SQL. [cite:4][cite:7]
+I LIKE BUILDING PROJECTS THAT COMBINE LOGIC, STRUCTURE, AND REAL-WORLD USABILITY — FROM FULL-STACK RECOMMENDATION PLATFORMS TO PYTHON APPLICATIONS AND RELATIONAL DATABASE SYSTEMS.
 
-## tech
-`Python` `SQL` `SQLite` `MySQL` `Flask` `PHP` `JavaScript` `HTML` `CSS`
+## CURRENTLY FOCUSED ON
 
-## projects
-- **Elyra** — full-stack beauty recommendation platform with future AI direction. [cite:1][cite:26]
-- **Library Management System** — Python + CSV/file handling project. [cite:7]
-- **Tutoring Institute Management System** — SQLite database design and SQL project. [cite:5][cite:115]
+- PYTHON, SQL, AND PROBLEM SOLVING
+- DATA STRUCTURES AND ALGORITHMIC THINKING
+- FULL-STACK WEB DEVELOPMENT
+- DATABASE DESIGN AND QUERY WRITING
 
-## learning
-DSA • databases • full-stack development • AI applications [cite:4]
+## TECH STACK
 
-## connect
-LinkedIn: [add link]  
-Email: [add email]
+`PYTHON` `SQL` `SQLITE` `MYSQL` `FLASK` `PHP` `JAVASCRIPT` `HTML` `CSS` `GRADIO`
 
-<!--
-**luluaali/luluaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## FEATURED PROJECTS
 
-Here are some ideas to get you started:
+- **ELYRA** — PERSONALIZED BEAUTY E-COMMERCE PLATFORM COMBINING WEB DEVELOPMENT, DATABASES, AND PYTHON-BASED RECOMMENDATION LOGIC, WITH FUTURE AI EXPANSION PLANNED.
+- **LIBRARY MANAGEMENT SYSTEM** — PYTHON-BASED SYSTEM FOR MANAGING BOOKS, MEMBERS, AND BORROWING/RETURN RECORDS USING FILE AND CSV HANDLING.
+- **TUTORING INSTITUTE MANAGEMENT SYSTEM** — RELATIONAL DATABASE PROJECT FOCUSED ON SCHEMA DESIGN, SQL QUERIES, TRANSACTIONS, AND ACADEMIC RECORD MANAGEMENT IN SQLITE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CURRENTLY LEARNING
+
+- ADVANCED DSA CONCEPTS
+- DATABASE OPTIMIZATION AND TRANSACTIONS
+- AI-DRIVEN APPLICATION DESIGN
+
+## BEYOND CODE
+
+- HEAD OF EVENT MANAGEMENT
+- GIRLS’ VOLLEYBALL TEAM LEAD
+- INTERESTED IN BUILDING TECH THAT IS BOTH USEFUL AND THOUGHTFUL
+
+## CONNECT
+
+- LINKEDIN: linkedin.com/in/lulua-aliasgar-ab4497384
+- EMAIL: luluaali0507@gmail.com
